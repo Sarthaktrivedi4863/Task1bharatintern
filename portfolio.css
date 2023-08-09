@@ -1,0 +1,123 @@
+header {
+    color: orange;
+}
+
+#abc {
+    background-image: url(/profile2.jpg);
+    background-repeat: no-repeat;
+    background-size: 250px 250px;
+    background-position: 300px bottom;
+
+
+}
+
+#dev {
+    color: rgb(233, 136, 25);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(115, 231, 237);
+    animation: typing 1.5s steps(10) infinite;
+
+}
+
+/* @keyframes typing {
+100%{
+left: 100%;
+margin: 0 -35px 0 35px;
+}
+} */
+#para {
+    /* text-align: right; */
+    color: rgb(12, 248, 161);
+    text-decoration-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#back {
+    background-image: url(/w1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px 700px;
+
+}
+
+#about {
+    /* background-color: rgb(2, 2, 39); */
+    /* background-color: rgb(12, 20, 17); */
+    background-image: url(/bg2.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1000px 700px;
+}
+
+.abb {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+#timg {
+    background-image: url(/p2.jpg);
+    background-repeat: no-repeat;
+
+    background-size: 300px 250px;
+    background-position: top right;
+    /* background-position: 200px left; */
+
+
+}
+
+#rate {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: rgb(229, 213, 193);
+}
+
+big {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(43, 15, 224);
+    font-size: 28px;
+}
+
+#deta {
+    color: aquamarine;
+}
+
+/* #para2{
+color: coral;
+} */
+#xxs {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(57, 255, 255);
+}
+
+.asdf {
+    font-size: 19px;
+    color: rgb(232, 159, 24);
+}
+
+#pop {
+    background-image: url(/w2.jpg);
+}
+
+#po :hover {
+    color: rgb(235, 236, 236);
+    cursor: pointer;
+    /* font-size: .8rem; */
+}
+.ssd{
+    border: 2px  rgb(214, 40, 40);
+    cursor: pointer;
+    background-color: rgb(244, 92, 92);
+    color: white;
+    padding: 6px;
+
+}
+img{
+    border-radius: 50%;
+}
